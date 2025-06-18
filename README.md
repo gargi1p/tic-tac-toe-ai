@@ -42,52 +42,59 @@ This project implements the classic **Tic-Tac-Toe** game in Python using a simpl
 
 Welcome to Tic-Tac-Toe!
 
-Player 1: X
+Player 1: X  
+
 Player 2: O
 
-Current board:
-   |     |
------------
-   |     |
------------
-   |     |
+Current board:  
+
+<pre> `  |   |  ` </pre>   
+ 
+
+<pre> `  |   |  ` </pre>  
+ 
+
+<pre> `  |   |  ` </pre>  
+ 
+ 
 
 
 
 
-
------------
 
 Player 1, enter your move (row and column): 0 0
 
 ## 🎯 After several moves:  
 
 
-Current board:
+Current board:  
+ 
+ 
  X | O | X
------------
+
  X | O |  
------------
- O |   |  
------------  
+
+ <pre> `O |   |  ` </pre>  
+
 
 Player 2 wins!
 
 ---
 
 ## 🛠️ How to Use
-Clone this repository or download the ZIP.
+Clone this repository or download the ZIP.  
 
-Install required libraries using:
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Open the notebook:
+Install required libraries using:  
 
-bash
-Copy
-Edit
-jupyter notebook MSE1_AI.ipynb
-Run the cells to see results.
+
+pip install -r requirements.txt  
+
+Open the notebook:  
+
+
+
+jupyter notebook MSE1_AI.ipynb  
+
+Run the cells to see results.  
+
