@@ -49,26 +49,18 @@ Current board:
 |  |  
 
 |  |   
- 
-
-
-
-
 
 Player 1, enter your move (row and column): 0 0
 
 ## 🎯 After several moves:  
 
-
 Current board:  
- 
  
  X | O | X
 
  X | O |  
 
  O|  |  
-
 
 Player 2 wins!
 
@@ -77,17 +69,13 @@ Player 2 wins!
 ## 🛠️ How to Use
 - Clone this repository or download the ZIP.  
 
-
 - Install required libraries using:  
-
 
     pip install -r requirements.txt  
 
 - Open the notebook:  
 
-
-
-   jupyter notebook MSE1_AI.ipynb  
+   jupyter notebook tic-tac-toe.ipynb  
 
 - Run the cells to see results.  
 
