@@ -48,14 +48,11 @@ Player 2: O
 
 Current board:  
 
-<pre> `  |   |  ` </pre>   
+<pre>  |  |  </pre>   
  
-
-<pre> `  |   |  ` </pre>  
+<pre>  |  |  </pre>  
  
-
-<pre> `  |   |  ` </pre>  
- 
+<pre>  |  |  </pre>  
  
 
 
@@ -74,7 +71,7 @@ Current board:
 
  X | O |  
 
- <pre> `O |   |  ` </pre>  
+ <pre> O|  |  </pre>  
 
 
 Player 2 wins!
@@ -82,19 +79,19 @@ Player 2 wins!
 ---
 
 ## 🛠️ How to Use
-Clone this repository or download the ZIP.  
+- Clone this repository or download the ZIP.  
 
 
-Install required libraries using:  
+- Install required libraries using:  
 
 
 pip install -r requirements.txt  
 
-Open the notebook:  
+- Open the notebook:  
 
 
 
 jupyter notebook MSE1_AI.ipynb  
 
-Run the cells to see results.  
+- Run the cells to see results.  
 
