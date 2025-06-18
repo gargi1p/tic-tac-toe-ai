@@ -25,16 +25,16 @@ This project implements the classic **Tic-Tac-Toe** game in Python using a simpl
 
 ---
 
-🧰 Libraries Used
--pandas
+## 🧰 Libraries Used
+- pandas
 
--numpy
+- numpy
 
--matplotlib
+- matplotlib
 
--seaborn
+- seaborn
 
--sklearn
+- sklearn
 
 ---
 
@@ -46,21 +46,30 @@ Player 1: X
 Player 2: O
 
 Current board:
-   |   |
+   |     |
 -----------
-   |   |
+   |     |
 -----------
-   |   |
+   |     |
+
+
+
+
+
+-----------
 
 Player 1, enter your move (row and column): 0 0
 
-🎯 After several moves:
+## 🎯 After several moves:  
+
+
 Current board:
  X | O | X
 -----------
  X | O |  
 -----------
  O |   |  
+-----------  
 
 Player 2 wins!
 
