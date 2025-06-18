@@ -27,13 +27,9 @@ This project implements the classic **Tic-Tac-Toe** game in Python using a simpl
 
 ## 🧰 Libraries Used
 - pandas
-
 - numpy
-
 - matplotlib
-
 - seaborn
-
 - sklearn
 
 ---
@@ -48,11 +44,11 @@ Player 2: O
 
 Current board:  
 
-<pre>  |  |  </pre>   
- 
-<pre>  |  |  </pre>  
- 
-<pre>  |  |  </pre>  
+|  |  
+
+|  |  
+
+|  |   
  
 
 
@@ -71,7 +67,7 @@ Current board:
 
  X | O |  
 
- <pre> O|  |  </pre>  
+ O|  |  
 
 
 Player 2 wins!
@@ -85,13 +81,13 @@ Player 2 wins!
 - Install required libraries using:  
 
 
-pip install -r requirements.txt  
+    pip install -r requirements.txt  
 
 - Open the notebook:  
 
 
 
-jupyter notebook MSE1_AI.ipynb  
+   jupyter notebook MSE1_AI.ipynb  
 
 - Run the cells to see results.  
 
